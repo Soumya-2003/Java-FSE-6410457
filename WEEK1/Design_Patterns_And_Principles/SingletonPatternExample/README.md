@@ -6,4 +6,5 @@ A simple Java project demonstrating the **Singleton Design Pattern**.
 
 SCREENSHOT OF THE OUTPUT:
 
-![Screenshot 2025-06-17 191906](https://github.com/user-attachments/assets/a353cb6e-9f7f-40d4-b281-73d172396036)
+![Screenshot 2025-06-17 211557](https://github.com/user-attachments/assets/3c7fff0f-225c-4cad-b7e3-1337ab9c02eb)
+
