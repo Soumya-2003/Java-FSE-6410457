@@ -3,4 +3,5 @@ This is a Java implementation of the Factory Method Design Pattern , used in a d
 
 SCREENSHOT OF THE OUTPUT
 
-![Screenshot 2025-06-17 200046](https://github.com/user-attachments/assets/17176f76-835f-4b38-919c-75df4d0546d5)
+![Screenshot 2025-06-17 211705](https://github.com/user-attachments/assets/8a655c12-bc0b-453e-bab0-a369566c7cf8)
+
