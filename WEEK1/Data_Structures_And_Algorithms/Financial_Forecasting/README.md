@@ -14,14 +14,11 @@ SCREENSHOT OF THE OUTPUT
 ![Screenshot 2025-06-18 153132](https://github.com/user-attachments/assets/39da9ee1-f65d-47df-8cd8-d9a4d3a44404)
 
 
-* Time Complexity of the Recursive Solution
-- The recursive approach runs in O(n) time, where n is the number of years.
+* Time Complexity of the Recursive Solution:- The recursive approach runs in O(n) time, where n is the number of years.
   Each recursive call reduces the year count by 1, so it makes exactly n calls before reaching the base case.
 
-* Space Complexity
-- It also uses O(n) space due to the recursion stack.
+* Space Complexity:- It also uses O(n) space due to the recursion stack.
 
-* Problem with the Recursive Approach
-- If years is large (say 10,000), the recursion depth will exceed Java’s default stack limit and cause a StackOverflowError .
+* Problem with the Recursive Approach:- If years is large (say 10,000), the recursion depth will exceed Java’s default stack limit and cause a StackOverflowError .
 
 * We can optimize the recursive solution by using memoization to store previously computed results and avoid redundant calculations.
