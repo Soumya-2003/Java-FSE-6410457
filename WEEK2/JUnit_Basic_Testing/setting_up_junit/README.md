@@ -2,7 +2,7 @@
 This project demonstrates how to set up and run JUnit 4 unit tests in a Maven-based Java project . 
 It includes a simple class with methods that can be tested using JUnit.
 
-🛠️ How to Set Up
+### 🛠️ How to Set Up
 - Clone the repository or download the ZIP file.
 - Open the project folder in VS Code.
 - Install the Java Extension Pack from the VS Code marketplace.
