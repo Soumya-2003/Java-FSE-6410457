@@ -6,6 +6,7 @@ It includes:
 
 ### Scenario 1: : The bank needs to process monthly interest for all savings accounts.
  Call `ProcessMonthlyInterest`
+ 
  SCREENSHOT OF THE OUTPUT
 
 ![scenario1](https://github.com/user-attachments/assets/26549271-8720-43ac-899b-596b6e1c56a1)
@@ -14,6 +15,7 @@ It includes:
 
 ### Scenario 2: The bank wants to implement a bonus scheme for employees based on their performance.
  Call `UpdateEmployeeBonus`
+ 
  SCREENSHOT OF THE OUTPUT
 
 ![scenario2](https://github.com/user-attachments/assets/db8ed207-2b3b-4e53-b9fd-215bd123ef08)
@@ -23,7 +25,8 @@ It includes:
 
 ### Scenario 3: Customers should be able to transfer funds between their accounts.
 Call `TransferFunds`
- SCREENSHOT OF THE OUTPUT
+ 
+SCREENSHOT OF THE OUTPUT
 
  ![scenario3](https://github.com/user-attachments/assets/e0e80b1e-b864-4f63-bc37-f3ee99aea032)
  ![scenario3_output](https://github.com/user-attachments/assets/c394339c-7809-403a-8558-94db63cec7bc)
