@@ -13,6 +13,7 @@ This project is a basic Spring Boot application with the following features:
 - `application.properties`: Configuration file for Spring Boot settings.
 
 SCREENSHOT OF THE OUTPUT
+
 When running the app, the logs in the terminal should look something like:
 
 ![Screenshot 2025-07-07 151959](https://github.com/user-attachments/assets/033d3a87-a0e2-4d95-98fa-aa70fe77f44f)
