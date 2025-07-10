@@ -19,7 +19,8 @@ This is a basic Spring Boot web application created to demonstrate how to build 
 
 Open in browser or use curl: `http://localhost:8083/hello`
 
-![Screenshot 2025-07-10 090313](https://github.com/user-attachments/assets/67abdec5-d300-4a8f-b821-3da1b4c697b8)
+![Screenshot 2025-07-10 091233](https://github.com/user-attachments/assets/62d75876-f983-49b0-bf41-d189d13c76e1)
+
 
 Open in Postman 
 
