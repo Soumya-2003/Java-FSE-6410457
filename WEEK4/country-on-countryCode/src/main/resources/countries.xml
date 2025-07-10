@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+       http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    
+    <!-- United States -->
+    <bean id="us" class="com.cognizant.springlearn.Country">
+        <property name="code" value="US" />
+        <property name="name" value="United States" />
+    </bean>
+    
+    <!-- Germany -->
+    <bean id="germany" class="com.cognizant.springlearn.Country">
+        <property name="code" value="DE" />
+        <property name="name" value="Germany" />
+    </bean>
+    
+    <!-- India -->
+    <bean id="india" class="com.cognizant.springlearn.Country">
+        <property name="code" value="IN" />
+        <property name="name" value="India" />
+    </bean>
+    
+    <!-- Japan -->
+    <bean id="japan" class="com.cognizant.springlearn.Country">
+        <property name="code" value="JP" />
+        <property name="name" value="Japan" />
+    </bean>
+    
+    <!-- United Kingdom -->
+    <bean id="uk" class="com.cognizant.springlearn.Country">
+        <property name="code" value="UK" />
+        <property name="name" value="United Kingdom" />
+    </bean>
+
+</beans>
